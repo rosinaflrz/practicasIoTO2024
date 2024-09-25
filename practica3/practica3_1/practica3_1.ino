@@ -1,4 +1,4 @@
-#include "DHT.h" // Librería para el sensor DHT
+#include "DHT.h" // Librería para el sensor DHT.  Rosina Flores
 
 #define DHTPIN 16     // Pin al que está conectado el sensor
 #define DHTTYPE DHT11 // Tipo de sensor
