@@ -1,0 +1,62 @@
+created_at,entry_id,field1,field2,latitude,longitude,elevation,status
+2024-10-29T05:20:56+00:00,1,24.30000,286.63,,,,Temperatura Normal
+2024-10-29T05:21:31+00:00,2,24.30000,286.63,,,,Temperatura Normal
+2024-10-29T05:22:04+00:00,3,24.30000,286.63,,,,Temperatura Normal
+2024-10-29T05:22:36+00:00,4,24.30000,286.63,,,,Temperatura Normal
+2024-10-29T05:23:12+00:00,5,24.30000,286.63,,,,Temperatura Normal
+2024-10-29T05:23:45+00:00,6,24.80000,286.63,,,,Temperatura Normal
+2024-10-29T05:24:18+00:00,7,26.00000,286.63,,,,Temperatura Normal
+2024-10-29T05:24:50+00:00,8,27.30000,286.63,,,,Temperatura Normal
+2024-10-29T05:25:22+00:00,9,28.60000,286.63,,,,Temperatura Normal
+2024-10-29T05:25:57+00:00,10,29.50000,286.63,,,,Temperatura Normal
+2024-10-29T05:26:29+00:00,11,29.80000,286.63,,,,Temperatura Normal
+2024-10-29T05:27:57+00:00,12,29.80000,13.48,,,,Temperatura Normal
+2024-10-29T05:28:29+00:00,13,29.70000,13.48,,,,Temperatura Normal
+2024-10-29T05:29:01+00:00,14,29.20000,13.48,,,,Temperatura Normal
+2024-10-29T05:29:33+00:00,15,28.80000,13.48,,,,Temperatura Normal
+2024-10-29T05:30:05+00:00,16,28.40000,13.48,,,,Temperatura Normal
+2024-10-29T05:30:37+00:00,17,28.10000,13.48,,,,Temperatura Normal
+2024-10-29T05:31:09+00:00,18,27.70000,13.48,,,,Temperatura Normal
+2024-10-29T05:31:41+00:00,19,27.50000,13.48,,,,Temperatura Normal
+2024-10-29T05:32:14+00:00,20,27.20000,13.48,,,,Temperatura Normal
+2024-10-29T05:32:46+00:00,21,26.60000,13.48,,,,Temperatura Normal
+2024-10-29T05:33:18+00:00,22,26.00000,13.48,,,,Temperatura Normal
+2024-10-29T05:33:50+00:00,23,25.20000,13.48,,,,Temperatura Normal
+2024-10-29T05:34:22+00:00,24,24.30000,13.48,,,,Temperatura Normal
+2024-10-29T05:34:54+00:00,25,23.30000,13.48,,,,Temperatura Normal
+2024-10-29T05:35:26+00:00,26,22.40000,13.48,,,,Temperatura Normal
+2024-10-29T05:35:59+00:00,27,21.70000,13.48,,,,Temperatura Normal
+2024-10-29T05:36:31+00:00,28,21.10000,13.48,,,,Temperatura Normal
+2024-10-29T05:37:03+00:00,29,20.60000,13.48,,,,Temperatura Normal
+2024-10-29T05:37:37+00:00,30,20.10000,13.48,,,,Temperatura Normal
+2024-10-29T05:38:10+00:00,31,19.70000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:38:43+00:00,32,19.40000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:39:14+00:00,33,19.20000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:39:46+00:00,34,19.00000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:40:19+00:00,35,18.80000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:40:51+00:00,36,18.70000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:41:23+00:00,37,18.70000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:41:55+00:00,38,18.80000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:42:30+00:00,39,19.20000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:43:02+00:00,40,19.90000,13.48,,,,Temperatura Relativamente Baja
+2024-10-29T05:43:35+00:00,41,20.80000,13.48,,,,Temperatura Normal
+2024-10-29T05:44:08+00:00,42,21.60000,13.48,,,,Temperatura Normal
+2024-10-29T05:44:40+00:00,43,22.10000,13.48,,,,Temperatura Normal
+2024-10-29T05:45:14+00:00,44,22.60000,13.48,,,,Temperatura Normal
+2024-10-29T05:45:47+00:00,45,22.90000,13.48,,,,Temperatura Normal
+2024-10-29T05:46:18+00:00,46,23.00000,13.48,,,,Temperatura Normal
+2024-10-30T01:58:58+00:00,47,24.10000,17.61,,,,Temperatura Normal
+2024-10-30T01:59:30+00:00,48,24.10000,17.61,,,,Temperatura Normal
+2024-10-30T02:00:01+00:00,49,24.10000,17.61,,,,Temperatura Normal
+2024-10-30T02:00:56+00:00,50,24.20000,17.61,,,,Temperatura Normal
+2024-10-30T02:01:27+00:00,51,24.20000,17.61,,,,Temperatura Normal
+2024-10-30T02:01:58+00:00,52,24.20000,17.61,,,,Temperatura Normal
+2024-10-30T02:02:30+00:00,53,24.20000,17.61,,,,Temperatura Normal
+2024-10-30T02:03:01+00:00,54,24.30000,17.61,,,,Temperatura Normal
+2024-10-30T02:03:32+00:00,55,24.40000,17.61,,,,Temperatura Normal
+2024-10-30T02:04:03+00:00,56,24.50000,17.61,,,,Temperatura Normal
+2024-10-30T02:04:34+00:00,57,24.50000,17.61,,,,Temperatura Normal
+2024-10-30T02:05:48+00:00,58,24.60000,19.48,,,,Temperatura Normal
+2024-10-30T02:06:19+00:00,59,24.60000,19.48,,,,Temperatura Normal
+2024-10-30T02:06:50+00:00,60,24.70000,19.48,,,,Temperatura Normal
+2024-10-30T02:07:22+00:00,61,24.70000,19.48,,,,Temperatura Normal
